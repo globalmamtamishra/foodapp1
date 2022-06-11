@@ -1,0 +1,37 @@
+input{
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    width: 30%;
+    margin-top: 20px;
+
+    height: 20px;
+
+    
+}
+
+#result{
+    display:grid;
+
+    grid-template-columns: repeat(4,auto);
+    
+ /* grid-template-rows: 500px;
+
+} */
+}
+
+#appendata{
+    border: 1px solid black;
+
+    width: 500px;
+
+margin-left:500px;
+
+height: 800px;
+overflow: scroll;
+
+}
+#appendata>img{
+   
+    width:100%;
+}

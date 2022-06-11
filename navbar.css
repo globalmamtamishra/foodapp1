@@ -1,0 +1,85 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+border: 1px solid teal;
+
+background-color: teal;
+
+
+padding: 10px;
+
+
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+#container{
+    display: grid;
+    grid-template-columns: repeat(4,400px);
+
+      margin-left: 100px;
+
+    gap: 40px;
+    
+    
+}
+#result{
+    margin-top: 30px;
+    /* margin-left:500px; */
+
+    font-size-adjust: 0.58;
+    
+   
+}
+
+
+
+/* text-align: justify */
+
+   
+#dayofweek{
+    text-size-adjust: 40px;
+
+    
+}
+
+
+
+#option{
+    display: flex;
+    gap: 20px;
+    
+}
+
+
+bigdata{
+    margin: auto;
+
+}
+
+#container,img{
+    height:500px;
+
+    width: 400px;
+}
+
+input{
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    width: 30%;
+    margin-top: 20px;
+
+    height: 20px;
+
+    
+}
+
+
+#box{
+
+}
